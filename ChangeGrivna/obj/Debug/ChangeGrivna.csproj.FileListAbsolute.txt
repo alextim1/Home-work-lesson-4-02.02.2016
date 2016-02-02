@@ -1,0 +1,6 @@
+C:\Users\ivy\Documents\GitHub\hw-of-lesson-3\ChangeGrivna\ChangeGrivna\bin\Debug\ChangeGrivna.exe.config
+C:\Users\ivy\Documents\GitHub\hw-of-lesson-3\ChangeGrivna\ChangeGrivna\bin\Debug\ChangeGrivna.exe
+C:\Users\ivy\Documents\GitHub\hw-of-lesson-3\ChangeGrivna\ChangeGrivna\bin\Debug\ChangeGrivna.pdb
+C:\Users\ivy\Documents\GitHub\hw-of-lesson-3\ChangeGrivna\ChangeGrivna\obj\Debug\ChangeGrivna.csprojResolveAssemblyReference.cache
+C:\Users\ivy\Documents\GitHub\hw-of-lesson-3\ChangeGrivna\ChangeGrivna\obj\Debug\ChangeGrivna.exe
+C:\Users\ivy\Documents\GitHub\hw-of-lesson-3\ChangeGrivna\ChangeGrivna\obj\Debug\ChangeGrivna.pdb
