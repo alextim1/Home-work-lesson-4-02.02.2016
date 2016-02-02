@@ -1,0 +1,6 @@
+C:\Users\ivy\Documents\GitHub\hw-of-lesson-4\weekSheduler\weekSheduler\bin\Debug\weekSheduler.exe.config
+C:\Users\ivy\Documents\GitHub\hw-of-lesson-4\weekSheduler\weekSheduler\bin\Debug\weekSheduler.exe
+C:\Users\ivy\Documents\GitHub\hw-of-lesson-4\weekSheduler\weekSheduler\bin\Debug\weekSheduler.pdb
+C:\Users\ivy\Documents\GitHub\hw-of-lesson-4\weekSheduler\weekSheduler\obj\Debug\weekSheduler.csprojResolveAssemblyReference.cache
+C:\Users\ivy\Documents\GitHub\hw-of-lesson-4\weekSheduler\weekSheduler\obj\Debug\weekSheduler.exe
+C:\Users\ivy\Documents\GitHub\hw-of-lesson-4\weekSheduler\weekSheduler\obj\Debug\weekSheduler.pdb
